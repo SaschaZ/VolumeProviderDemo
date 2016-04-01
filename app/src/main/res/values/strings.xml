@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VolumeProviderDemo</string>
+    <string name="volumeLabelText">volume=%d</string>
+</resources>
